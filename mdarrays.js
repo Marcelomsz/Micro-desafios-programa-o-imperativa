@@ -25,11 +25,11 @@ console.log('Resultado do push("leite") = ' + listaCompras);
 console.log(' ');
 
 console.log('A função Shift retira do array o primeiro elemento e ele pode ser armazenado em outra variavel assim como o pop. ');
-excluidos=listaCompras.shift()
-console.log('Resultado de listaCompras.shift() =' +listaCompras);
+excluidos = listaCompras.shift()
+console.log('Resultado de listaCompras.shift() =' + listaCompras);
 console.log('Elemento excluido: ' + excluidos);
 console.log(' ');
 
 console.log('A função Unshift adiciona um novo elemento no inicio do array');
 listaCompras.unshift('Peixe')
-console.log('Resultado de listaCompras.unshift("Peixe") =' +listaCompras);
+console.log('Resultado de listaCompras.unshift("Peixe") =' + listaCompras);

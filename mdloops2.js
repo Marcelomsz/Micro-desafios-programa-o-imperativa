@@ -12,4 +12,4 @@ for (let repeticoes = 0; repeticoes < 10; repeticoes++) {
     }
 
 }
-console.log('Os numeros :'+  impares+ ' são impares')
+console.log('Os numeros :' + impares + ' são impares')
